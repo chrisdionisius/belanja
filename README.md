@@ -1,6 +1,15 @@
 # belanja
 
-A new Flutter project.
+Praktikum Jobsheet 5 - Navigasi dan Route
+
+
+## Screenshot hasil
+![screenshot](img/capture.gif)
+
+## Informasi Mahasiswa
+Nama : Dionisius D. Yapenrui <br>
+NIM : 1931710111 <br>
+Kelas : MI-2B
 
 ## Getting Started
 
